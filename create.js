@@ -9,9 +9,11 @@ export const main = handler(async (event, context) => {
         TableName: process.env.tableName,
         Item: {
             userId: event.requestContext.identity.cognitoIdentityId,
-            permissionId: uuid.v1(),
-            content: data.content,
-            attachment: data.attachment,
+            permissionsId: uuid.v1(),
+            references: data.references,
+            hiddenrepos: data.hiddenrepos,
+            resume: data.resume,
+            latest: data.latest,
             createdAt: Date.now()
         }
     };
