@@ -5,6 +5,7 @@ import dynamoDb from "./libs/dynamodb-lib";
 
 export const main = handler(async (event, context) => {
     const data = JSON.parse(event.body);
+    var newDate = new Date();
     const params = {
         TableName: process.env.tableName,
         Item: {
@@ -14,7 +15,7 @@ export const main = handler(async (event, context) => {
             hiddenrepos: data.hiddenrepos,
             resume: data.resume,
             latest: data.latest,
-            createdAt: Date.now()
+            createdAt: `${newDate.toDateString()} ${newDate.toTimeString()}`
         }
     };
 
@@ -22,3 +23,4 @@ export const main = handler(async (event, context) => {
 
     return params.Item;
 });
+
