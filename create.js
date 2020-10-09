@@ -12,8 +12,11 @@ export const main = handler(async (event, context) => {
             userId: event.requestContext.identity.cognitoIdentityId,
             permissionsId: uuid.v1(),
             references: data.references,
+            referencesRequested: data.referencesRequested,
             hiddenrepos: data.hiddenrepos,
+            hiddenreposRequested: data.hiddenreposRequested,
             resume: data.resume,
+            resumeRequested: data.resumeRequested,
             latest: data.latest,
             createdAt: `${newDate.toDateString()} ${newDate.toTimeString()}`
         }
@@ -23,4 +26,3 @@ export const main = handler(async (event, context) => {
 
     return params.Item;
 });
-
