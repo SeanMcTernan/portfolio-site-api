@@ -23,10 +23,10 @@ The backend of the Portfolio site serves to assist login and permissions on my p
 ### The App
 
 <p align="center">
-  <img src="https://github.com/SeanMcTernan/SeanMcTernan/blob/main/Portfolio-App-Example_1.png?raw=true" width="738">
+  <img src="https://github.com/SeanMcTernan/SeanMcTernan/blob/main/Portfolio-App-Sreenshot_1.png?raw=true" width="738">
 </p>
 
-Since this reporsitory deals pSince this repository deals primarily in the backend, screenshots don't really tell the whole story. Instead, you can see here some examples of how those backend calls are being displayed on the front end to the end users. rimarily in the backend, screenshots don't really tell the whole story. Instead you can see here some examples of how those backend calls are being displayed on the front end to the end users. 
+Since this repository deals primarily in the backend, screenshots don't really tell the whole story. Instead, you can see here some examples of how those backend calls are being displayed on the front end to the end users. In the backend, screenshots don't really tell the whole story. Instead, you can see here some examples of how those backend calls are being displayed on the front end to the end users. 
 
 <p align="center">
   <img src="https://github.com/SeanMcTernan/SeanMcTernan/blob/main/Portfolio-App-Example_2.png?raw=true" width="738">
@@ -35,3 +35,10 @@ Since this reporsitory deals pSince this repository deals primarily in the backe
 ### Motivation & what was learned
 
 The backend was created to reapply what I learned during the [Serverless-Stack](https://serverless-stack.com/) course. I enjoyed working with AWS during this course and wanted to continue growing my knowledge with this technology. I learned quite a lot about AWS and their offerings. In particular Lambda and Cognito. I feel they are well established tools, however from the outset them seem more difficult to pickup compared to their competitor Google and the API's they offer such as Firebase. 
+
+### Install Instructions
+
+1. Clone/Download the Repository 
+2. From the folder run `npm install`
+
+### Development Time: 3 Weeks
