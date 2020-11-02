@@ -34,7 +34,7 @@ Since this repository deals primarily in the backend, screenshots don't really t
 
 ### Motivation & what was learned
 
-The backend was created to reapply what I learned during the [Serverless-Stack](https://serverless-stack.com/) course. I enjoyed working with AWS during this course and wanted to continue growing my knowledge with this technology. I learned quite a lot about AWS and their offerings. In particular Lambda and Cognito. I feel they are well established tools, however from the outset them seem more difficult to pickup compared to their competitor Google and the API's they offer such as Firebase. 
+The backend was created to reapply what I learned during the [Serverless-Stack](https://serverless-stack.com/) course. I enjoyed working with AWS during this course and wanted to continue growing my knowledge with this technology. I learned quite a lot about AWS and their offerings. In particular Lambda and Cognito. I feel they are well established tools, however from the outset they seem alot more difficult to pickup compared to their competitor Google and the API's they offer such as Firebase. 
 
 ### Install Instructions
 
