@@ -12,9 +12,12 @@ The backend of the Portfolio site serves to assist login and permissions on my p
 | Name                                                        | Purpose                                                                                                    |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | [NodeJS](https://nodejs.org/en/)         | Main programming language for the project |
+| [AWS-Cognito](https://aws.amazon.com/cognito/)                      | To handle users logins and permissions |
+| [AWS-DynamoDB](https://aws.amazon.com/dynamodb/)                      | To keep track of the permission of each user in a database |
+| [AWS-Lambda](https://aws.amazon.com/lambda/)                      | To handle the cloud functions required to execute the CRUD operations |
 | [AWS-SDK](https://www.npmjs.com/package/aws-sdk)                      | To help interact with AWS services like Cognito and Lambda |
 | [Serverless-Bundle](https://www.npmjs.com/package/serverless-dotenv-plugin) | To assist with development of AWS and Lambda |
-| [Serverless-Offline](https://www.npmjs.com/package/serverless-offline) | To emulates AWS and API Gateways on the local development environemnt  |
+| [Serverless-Offline](https://www.npmjs.com/package/serverless-offline) | To emulates AWS and API Gateways on the local development environment  |
 | [UUID](https://www.npmjs.com/package/uuid) | To create unique ID's for each permissions request  |
 
 ### The App
