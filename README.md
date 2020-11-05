@@ -1,8 +1,7 @@
-# Portfolio Site - Backend <a href="https://github.com/SeanMcTernan" target="_blank"><img src="https://raw.githubusercontent.com/SeanMcTernan/SeanMcTernan/7c1dcc08830e2087866a9d06c1f37d7b431edf82/ReadMe_Images/ReadMe_Badge_Small.svg" alt="Site badgeBy Sean Mc Ternan" width="120"/>
+# Portfolio Site - Backend <a href="https://github.com/SeanMcTernan" target="_blank"><img src="https://raw.githubusercontent.com/SeanMcTernan/SeanMcTernan/7c1dcc08830e2087866a9d06c1f37d7b431edf82/ReadMe_Images/ReadMe_Badge_Small.svg" alt="Site badgeBy Sean Mc Ternan" width="120"/></a>
 
 
-<img src="https://raw.githubusercontent.com/SeanMcTernan/SeanMcTernan/940a359ef8a199aac0fe3e5cecaaef3d01e17542/ReadMe_Images/Portfolio_App/portfolio_app_backend.svg" align="right"
-     alt="Portfolio Site Backend App Image By Sean Mc Ternan" width="120" height="178">
+<img src="https://raw.githubusercontent.com/SeanMcTernan/SeanMcTernan/940a359ef8a199aac0fe3e5cecaaef3d01e17542/ReadMe_Images/Portfolio_App/portfolio_app_backend.svg" align="right" alt="Portfolio Site Backend App Image By Sean Mc Ternan" width="120" height="178">
 
 
 The backend of the Portfolio site serves to assist login and permissions on my portfolio site. It allows users to create accounts, login and request permissions to see restricted areas on the site that are otherwise invisible unless approved.
