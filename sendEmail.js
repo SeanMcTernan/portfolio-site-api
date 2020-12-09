@@ -4,7 +4,7 @@ import AWS from "aws-sdk";
 
 const SES = new AWS.SES();
 
-export const main = handler(async (event) => {
+export const main = handler(async (event, context) => {
     console.log("event", event);
     const { to, from, subject, text } = JSON.parse(event.body);
 
