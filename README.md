@@ -20,13 +20,13 @@ The backend of the Portfolio site serves to assist login and permissions on my p
 ### The App
 
 <p align="center">
-  <img src="https://github.com/SeanMcTernan/SeanMcTernan/blob/master/ReadMe_Images/Portfolio_App/Portfolio-App-Example_2.png?raw=true" alt="Portfolio Site Backend Screenshot 1" width="738">
+  <img src="https://raw.githubusercontent.com/SeanMcTernan/SeanMcTernan/7c1dcc08830e2087866a9d06c1f37d7b431edf82/ReadMe_Images/Portfolio_App/Portfolio-App-Example_2.png?raw=true" alt="Portfolio Site Backend Screenshot 1" width="738">
 </p>
 
 Since this repository deals primarily in the backend, screenshots don't really tell the whole story. Instead, you can see here some examples of how those backend calls are being displayed on the front end to the end users.
 
 <p align="center">
-  <img src="https://github.com/SeanMcTernan/SeanMcTernan/blob/master/ReadMe_Images/Portfolio_App/portfolio_site_sample_2.png?raw=true" alt="Portfolio Site Backend Screenshot 2" width="738">
+  <img src="https://raw.githubusercontent.com/SeanMcTernan/SeanMcTernan/7c1dcc08830e2087866a9d06c1f37d7b431edf82/ReadMe_Images/Portfolio_App/portfolio_site_sample_2.png?raw=true" alt="Portfolio Site Backend Screenshot 2" width="738">
 </p>
 
 ### Motivation & what was learned
